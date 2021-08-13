@@ -1,4 +1,4 @@
-### <samp>Hello, Everyone ! I'am Full Stack Developer MERN JavaScript / .Net (Core) :grinning: </samp>
+### <samp>Hello, Everyone ! :grinning: I'am Full Stack Developer MERN JavaScript / .Net (Core)</samp>
 
 ### <samp> Find me on: </samp>
 
