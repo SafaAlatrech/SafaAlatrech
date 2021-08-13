@@ -1,4 +1,4 @@
-### <samp>Hello, Everyone ! :grinning: </samp>
+### <samp>Hello, Everyone ! I'am Full Stack Developer MERN JavaScript / .Net (Core) :grinning: </samp>
 
 ### <samp> Find me on: </samp>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SafaAlatrech" alt="SafaAlatrech" /> </p>
 
-[![Zahra's github stats](https://github-readme-stats.vercel.app/api?username=SafaAlatrech&hide=stars,issues&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/SafaAlatrech/github-readme-stats) <br />
+[![Safa's github stats](https://github-readme-stats.vercel.app/api?username=SafaAlatrech&hide=stars,issues&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/SafaAlatrech/github-readme-stats) <br />
 
 ### <samp>Skills </samp> :muscle:
 
